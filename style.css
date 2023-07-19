@@ -1,0 +1,38 @@
+
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-body {
+  background-color: aquamarine;
+  color: aliceblue;
+}
+
+.header {
+  color: white;
+  font-size: 35px;
+}
+
+.list {
+  display: inline-block;
+  text-align: left;
+  font-size: 25px;
+}
+
+.bang-body {
+    background-color: rebeccapurple;
+    color: aliceblue;
+}
+
+footer {
+    font-size: 20px;
+}
+
+.slaw-body {
+    background-color: brown;
+}
+
+.chip-body {
+    background-color: black;
+    color: white;
+}
